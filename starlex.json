@@ -1,0 +1,74 @@
+{
+   "Admin_panel": {
+      "api_hash": "240e8e6da3a51975d12ed45d7f5014c5",
+      "api_id": "4016659",
+      "Number": "+966564687110"
+   },
+   "api_hash": "240e8e6da3a51975d12ed45d7f5014c5",
+   "api_id": "4016659",
+   "BOT": "@Free_Bitcoin_Cash_Pay_Bot",
+   "Fake_mail": {
+      "find1": "📨 Email",
+      "find2": "✅ Your Coinbase Email Successfully Updated",
+      "license_code": "whyso",
+      "send_obj": "📨 Send Your Coinbase Email Here ⬇️",
+      "Turn": "on",
+      "user_mail": "fake_mail.txt"
+   },
+   "Game_bot": {
+      "joined": "",
+      "reff": "",
+      "Status": "inactive"
+   },
+   "Game_button": {
+      "click": "inactive",
+      "find": "",
+      "reff": ""
+   },
+   "Game_wd1": {
+      "option1": "🎰 Bonus",
+      "option2": "",
+      "option3": "",
+      "option4": "",
+      "option5": "",
+      "Turn": "on"
+   },
+   "Game_wd2": {
+      "option": "off",
+      "option_obj": "abrahamalyahya@gmail.com"
+   },
+   "Game_wd2x": {
+      "Click": "off",
+      "click_obj": "✏️ Set Email",
+      "find": "📧 Setuped Coinbase"
+   },
+   "Generate_fakemail": {
+      "first_name": "STARLEXBad",
+      "last_name": "Moneyheist",
+      "license_code": "Whyso",
+      "number": "04743",
+      "Turn": "on"
+   },
+   "leave": {
+      "leave_status": 50,
+      "Turn": "off"
+   },
+   "Print_mode": {
+      "find": "💰 Your Account",
+      "send_obj": "💰Balance",
+      "Turn": "on"
+   },
+   "Turn_group": {
+      "group": [
+         "\"https://t.me/Legit_Instant_Bot_Update\",\"https://t.me/joinchat/t2V2nayUMI9kYjMx\", \"https://t.me/Legit_Tele_Invest\",\"https://t.me/Instant_Pay_Bots\",\"https://t.me/Legit_AirdropUpdates_2021\""
+      ],
+      "status": "on"
+   },
+   "Turn_private": {
+      "private": [
+         "",
+         ""
+      ],
+      "Status": "off"
+   }
+}
