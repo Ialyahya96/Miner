@@ -1,0 +1,46 @@
+{
+    "SET_BOT": {
+        "DOGE": {
+            "WALLET": "D9pae9qnQySqhfYRvcNpBw7MTaRzuC84JV",
+            "AUTO_WD": {
+                "MODE": "ON",
+                "JUMLAH": "4"
+            }
+        },
+        "BTC": {
+            "WALLET": "3KD3QYASJzEjp6bbF7UTZq17gRyXAjj94a",
+            "AUTO_WD": {
+                "MODE": "ON",
+                "JUMLAH": "0.00003"
+            }
+        },
+        "LTC": {
+            "WALLET": "MDsfPFBV58HXhi8UuuSn2XvPLDzK43gfZJ",
+            "AUTO_WD": {
+                "MODE": "ON",
+                "JUMLAH": "0.0004"
+            }
+        },
+        "BCH": {
+            "WALLET": "qp9hja90ke52jt0ce8jpwv3e2dvt2pf07vd93umsvf",
+            "AUTO_WD": {
+                "MODE": "ON",
+                "JUMLAH": "0.0001"
+            }
+        },
+        "ZEC": {
+            "WALLET": "t1YUE8eZbstyzLrSty8rsVhv4kcsr2M2YZi",
+            "AUTO_WD": {
+                "MODE": "ON",
+                "JUMLAH": "0.00035"
+            }
+        }
+    },
+    "SET_MODE": {
+        "TIMER": {
+            "JAM": 6,
+            "MENIT": 0,
+            "DETIK": 0
+        }
+    }
+}
